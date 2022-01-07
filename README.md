@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning ExpressJS, ReactJS
 - 📫 How to reach me ...[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/H2Q318)..[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/Hi.I.am.Hunine/)...
 
-![](https://komarev.com/ghpvc/?username=H2Q318&color=lightgrey&style=flat-square&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=H2Q318&color=lightgrey&style=flat-square&label=VIEWS) [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'>](https://www.facebook.com/Hi.I.am.Hunine/)
+
+
 
 
 <!---
