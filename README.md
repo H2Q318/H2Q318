@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=H2Q318&color=lightgrey&style=flat-square&label=VIEWS) 
 
-
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H2Q318&show_icons=true&theme=radical)
 
 
 <!---
