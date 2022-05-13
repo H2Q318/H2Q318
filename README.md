@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Hung
 #### Welcome to my github🎉🎉🎉
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/H2Q318) [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'>](https://www.facebook.com/Hi.I.am.Hunine/) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/hi-i-am-hunine/) 
+<!-- [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/H2Q318)  -->
+[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'>](https://www.facebook.com/Hi.I.am.Hunine/) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/hi-i-am-hunine/) 
 - 👀 My favourite command is `git commit -m "First commit 🎉"` 🥴
 - 🌱 I’m currently learning ExpressJS, Django
 
